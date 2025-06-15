@@ -13,3 +13,7 @@ npm install
 npm run dev  # ou `npm start` selon la config
 
  (Python 3.10+ conseillé).
+
+superadmin@gmail.com:superadmin
+
+business@gmail.com:Testeur2025
