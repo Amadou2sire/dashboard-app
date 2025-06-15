@@ -11,3 +11,5 @@ python manage.py runserver
 cd ../frontend
 npm install
 npm run dev  # ou `npm start` selon la config
+
+ (Python 3.10+ conseillé).
